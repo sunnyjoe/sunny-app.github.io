@@ -10,10 +10,10 @@ Improve players' concentration and memory with a game everyone love and want to 
 
 Just open the app you will know how to play. If you successfully find a match pair, the pair will break into pieces with explode sound, which is very interesting. You just want to hear this sound. Well if you mismatch, you will get -20 points. It is time to enjoy this little game.
 
-![]({{ site.baseurl }}/assets/images/success.png)
+![](https://raw.githubusercontent.com/sunnyjoe/sunny-app.github.io/master/assets/images/success.PNG)
 
 ![](https://raw.githubusercontent.com/sunnyjoe/sunny-app.github.io/master/assets/images/full.PNG)
 
 You can see your rank in the world. Yeah! It is globally.
 
-![]({{ site.baseurl }}/assets/images/menu.png)
+![](https://raw.githubusercontent.com/sunnyjoe/sunny-app.github.io/master/assets/images/menu.PNG)
