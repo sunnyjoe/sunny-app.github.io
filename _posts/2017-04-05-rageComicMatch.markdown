@@ -12,7 +12,7 @@ Just open the app you will know how to play. If you successfully find a match pa
 
 ![]({{ site.baseurl }}/assets/images/success.png)
 
-![]({{ site.baseurl }}/assets/images/full.png)
+![](https://raw.githubusercontent.com/sunnyjoe/sunny-app.github.io/master/assets/images/full.PNG)
 
 You can see your rank in the world. Yeah! It is globally.
 
