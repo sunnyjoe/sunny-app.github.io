@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RageComicMatch"
+title:  "Rage Comic Match"
 date:   2017-04-05 21:11:59 +0800
 categories: jekyll update
 ---
