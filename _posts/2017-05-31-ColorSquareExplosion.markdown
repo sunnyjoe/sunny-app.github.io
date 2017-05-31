@@ -8,13 +8,13 @@ Color Square Explosion is a very relaxing game.
 
 Click square, it explodes and fall into the water. The water's color will be mixed. Good for kids to learn differentiate colors.
 
-![](https://raw.githubusercontent.com/sunnyjoe/sunny-app.github.io/master/assets/images/mix_color_change.PNG)
+![](https://raw.githubusercontent.com/sunnyjoe/sunny-app.github.io/master/assets/images/mix_color_change_color.png)
 
-![](https://raw.githubusercontent.com/sunnyjoe/sunny-app.github.io/master/assets/images/mix_color_click.PNG)
+![](https://raw.githubusercontent.com/sunnyjoe/sunny-app.github.io/master/assets/images/mix_color_click.png)
 
 Click the pink heart, the color square will flash like twinkle stars.
 
 
-![](https://raw.githubusercontent.com/sunnyjoe/sunny-app.github.io/master/assets/images/mix_color_music.PNG)
+![](https://raw.githubusercontent.com/sunnyjoe/sunny-app.github.io/master/assets/images/mix_color_music.png)
 
 With funny music and animation effect. It is a very good game for relax and forget about the time.
