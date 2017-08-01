@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "活动参加记录"
+date:   2017-08-01 21:11:59 +0800
+categories: jekyll update
+---
+活动参加记录是一个点名的工具，可批量输入姓名，添加活动，按照活动和日期记录。点名界面，只需要轻轻一点就可以添加记录，当人数较多时可以搜索。最重要的是有统计工具，可以让您方便查看出勤情况。您还可以把数据通过电子邮件的方式发给其他人看。
+
+![](https://raw.githubusercontent.com/sunnyjoe/sunny-app.github.io/master/assets/images/callroll1.PNG)
+![](https://raw.githubusercontent.com/sunnyjoe/sunny-app.github.io/master/assets/images/callroll2.PNG)
+![](https://raw.githubusercontent.com/sunnyjoe/sunny-app.github.io/master/assets/images/callroll3.PNG)
+![](https://raw.githubusercontent.com/sunnyjoe/sunny-app.github.io/master/assets/images/callroll4.PNG)
+![](https://raw.githubusercontent.com/sunnyjoe/sunny-app.github.io/master/assets/images/callroll5.PNG)
